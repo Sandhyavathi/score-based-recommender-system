@@ -1,1 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Science and Machine Learning Quiz</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: #f4f7f6;
+            color: #333;
+            padding: 20px;
+            margin: auto;
+            max-width: 700px;
+        }
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #2d8cff;
+            text-align: center;
+        }
+        .question {
+            margin-top: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        input[type="radio"] {
+            margin-right: 8px;
+        }
+        button {
+            background: #2d8cff;
+            color: #fff;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 20px;
+        }
+        button:hover {
+            background: #1b6fd1;
+        }
+        .no-copy {
+            user-select: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="quiz-container no-copy">
+        <h2>Machine Learning Quiz</h2>
+        <form id="quizForm">
+            <div class="question">
+                <p>1. What is the difference between supervised and unsupervised learning?</p>
+                <input type="radio" name="q1" value="A"> Supervised learning uses labeled data, while unsupervised learning uses unlabeled data.<br>
+                <input type="radio" name="q1" value="B"> Supervised learning is used for clustering, unsupervised for regression.<br>
+                <input type="radio" name="q1" value="C"> Supervised learning requires no data, unsupervised requires a large dataset.<br>
+                <input type="radio" name="q1" value="D"> Both supervised and unsupervised are used for the same purpose.<br>
+            </div>
+            <div class="question">
+                <p>2. Which of the following is an example of a classification algorithm?</p>
+                <input type="radio" name="q2" value="A"> Linear Regression<br>
+                <input type="radio" name="q2" value="B"> K-Nearest Neighbors (KNN)<br>
+                <input type="radio" name="q2" value="C"> Principal Component Analysis (PCA)<br>
+                <input type="radio" name="q2" value="D"> K-Means Clustering<br>
+            </div>
+            <div class="question">
+                <p>3. Which metric is commonly used to evaluate classification models?</p>
+                <input type="radio" name="q3" value="A"> Mean Absolute Error (MAE)<br>
+                <input type="radio" name="q3" value="B"> Root Mean Squared Error (RMSE)<br>
+                <input type="radio" name="q3" value="C"> F1-Score<br>
+                <input type="radio" name="q3" value="D"> Adjusted R-Squared<br>
+            </div>
+            <div class="question">
+                <p>4. What does the "bias-variance tradeoff" refer to in machine learning?</p>
+                <input type="radio" name="q4" value="A"> Balancing the number of features in a model<br>
+                <input type="radio" name="q4" value="B"> Balancing the complexity and performance of a model<br>
+                <input type="radio" name="q4" value="C"> Choosing between different optimization algorithms<br>
+                <input type="radio" name="q4" value="D"> The tradeoff between supervised and unsupervised learning<br>
+            </div>
+            <div class="question">
+                <p>5. Which algorithm is best suited for a task that requires dimensionality reduction?</p>
+                <input type="radio" name="q5" value="A"> Support Vector Machine (SVM)<br>
+                <input type="radio" name="q5" value="B"> Principal Component Analysis (PCA)<br>
+                <input type="radio" name="q5" value="C"> Decision Tree<br>
+                <input type="radio" name="q5" value="D"> Naive Bayes<br>
+            </div>
+            <div class="question">
+                <p>6. In a neural network, what is the purpose of an activation function?</p>
+                <input type="radio" name="q6" value="A"> To initialize the weights of the network<br>
+                <input type="radio" name="q6" value="B"> To introduce non-linearity into the model<br>
+                <input type="radio" name="q6" value="C"> To adjust the learning rate during training<br>
+                <input type="radio" name="q6" value="D"> To stop the model from overfitting<br>
+            </div>
+            <div class="question">
+                <p>7. Which of the following is a common method for handling imbalanced datasets in classification problems?</p>
+                <input type="radio" name="q7" value="A"> Reduce the number of features<br>
+                <input type="radio" name="q7" value="B"> Use cross-validation<br>
+                <input type="radio" name="q7" value="C"> Apply oversampling techniques like SMOTE<br>
+                <input type="radio" name="q7" value="D"> Normalize the data<br>
+            </div>
+            <div class="question">
+                <p>8. Which evaluation metric is preferred for models dealing with imbalanced datasets?</p>
+                <input type="radio" name="q8" value="A"> Accuracy<br>
+                <input type="radio" name="q8" value="B"> Precision, Recall, and F1-Score<br>
+                <input type="radio" name="q8" value="C"> R-Squared<br>
+                <input type="radio" name="q8" value="D"> AIC and BIC<br>
+            </div>
+            <div class="question">
+                <p>9. What is overfitting in machine learning?</p>
+                <input type="radio" name="q9" value="A"> When a model performs well on unseen data<br>
+                <input type="radio" name="q9" value="B"> When a model performs well on training data but poorly on new, unseen data<br>
+                <input type="radio" name="q9" value="C"> When a model underestimates the training data<br>
+                <input type="radio" name="q9" value="D"> When a model generalizes well to new data<br>
+            </div>
+            <div class="question">
+                <p>10. Which of the following techniques is used to prevent overfitting?</p>
+                <input type="radio" name="q10" value="A"> Using a small training dataset<br>
+                <input type="radio" name="q10" value="B"> Increasing the learning rate<br>
+                <input type="radio" name="q10" value="C"> Removing the validation set<br>
+                <input type="radio" name="q10" value="D"> Applying regularization (L1, L2)<br>
+            </div>
+            <button type="button" onclick="submitQuiz()">Submit</button>
+        </form>
+    </div>
 
+    <script>
+        document.addEventListener('contextmenu', event => event.preventDefault());
+        
+        function calculateScore() {
+            let score = 0;
+            const answers = {
+                q1: 'A', q2: 'B', q3: 'C', q4: 'B', q5: 'B',
+                q6: 'B', q7: 'C', q8: 'B', q9: 'B', q10: 'D'
+            };
+
+            for (const [question, correctAnswer] of Object.entries(answers)) {
+                const userAnswer = document.querySelector(`input[name="${question}"]:checked`);
+                if (userAnswer && userAnswer.value === correctAnswer) {
+                    score += 10;  // 10 points per correct answer
+                }
+            }
+            return score;
+        }
+
+        function submitQuiz() {
+            const score = calculateScore();
+            fetch('/submit-quiz', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ score: score })
+            }).then(response => {
+                window.location.href = '/show-study-plan?score=' + score;
+            });
+        }
+    </script>
+</body>
+</html>

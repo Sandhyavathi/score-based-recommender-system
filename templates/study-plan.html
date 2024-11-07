@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommended Study Plan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f9fc;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 700px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+        h2 {
+            color: #0044cc;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 1.8em;
+        }
+        h3 {
+            color: #333;
+            text-align: center;
+            margin: 10px 0;
+            font-weight: normal;
+        }
+        .plan-title {
+            font-size: 1.4em;
+            color: #0044cc;
+            text-align: center;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        .goal {
+            font-style: italic;
+            color: #666;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .week {
+            font-weight: bold;
+            color: #0044cc;
+            margin-top: 25px;
+            font-size: 1.1em;
+        }
+        .resources {
+            margin-top: 8px;
+            padding-left: 20px;
+            list-style-type: disc;
+            color: #555;
+        }
+        .resources li {
+            margin: 5px 0;
+        }
+        .score {
+            font-size: 1.2em;
+            color: #333;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .highlight {
+            color: #d9534f;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Study Plan Recommendation</h2>
+    <h3 class="score">Your Score: <span class="highlight">{{ score }}%</span></h3>
+
+    <div class="plan-title">{{ study_plan.title }}</div>
+    <div class="goal">Goal: {{ study_plan.goal }}</div>
+
+    <!-- Week-by-Week Plan -->
+    <div id="plan-details">
+        {% for week in study_plan.weeks %}
+            <div class="week">{{ week.title }}</div>
+            <ul class="resources">
+                {% for resource in week.resources %}
+                    <li>{{ resource }}</li>
+                {% endfor %}
+            </ul>
+        {% endfor %}
+    </div>
+</div>
+
+</body>
+</html>
+
