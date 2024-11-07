@@ -1,0 +1,3201 @@
+prompt,completion
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 20% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 90% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 10% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 80% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 70% in the Data Science and Machine Learning quiz. Provide a study plan for the Advanced level, focusing on key concepts and resources.","Title: Advanced Level Study Plan: Data Science and Machine Learning
+Goal: Master feature engineering techniques for model optimization.
+Week 1-2:
+    - Advanced feature engineering methods
+    - Scaling, normalization, and encoding
+Resources:
+    - Coursera: Feature Engineering for Machine Learning by University of Washington
+    - YouTube: StatQuest with Josh Starmer - Feature Engineering
+
+Week 3-4:
+    - Deep dive into complex machine learning models
+    - Ensemble methods, boosting, and bagging
+Resources:
+    - Coursera: Advanced Machine Learning Specialization by HSE University
+    - Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 100% in the Data Science and Machine Learning quiz. Provide a study plan for the Expert level, focusing on key concepts and resources.","Title: Expert Level Study Plan: Data Science and Machine Learning
+Goal: Conduct research and optimize algorithms for production.
+Week 1-2:
+    - Advanced research methodologies
+    - Hyperparameter tuning, optimization techniques
+Resources:
+    - Coursera: Machine Learning Specialization by Andrew Ng
+    - Research Papers on arXiv
+
+Week 3-4:
+    - Model deployment techniques
+    - Building APIs and using cloud platforms
+Resources:
+    - FastAPI Documentation
+    - AWS Machine Learning Services"
+"Student scored 60% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 40% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 30% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
+"Student scored 0% in the Data Science and Machine Learning quiz. Provide a study plan for the Basic level, focusing on key concepts and resources.","Title: Basic Level Study Plan: Data Science and Machine Learning
+Goal: Understand the basic concepts and types of machine learning.
+Week 1-2:
+    - Introduction to data science and machine learning
+    - Difference between supervised, unsupervised, and reinforcement learning
+    - Basic terms: dataset, features, labels, and models
+Resources:
+    - Coursera: Introduction to Data Science by IBM
+    - YouTube: Data School - What is Machine Learning?
+
+Week 3-4:
+    - Get familiar with Python for data science.
+    - Introduction to Python libraries: NumPy, Pandas, Matplotlib
+    - Loading and manipulating datasets with Pandas
+Resources:
+    - Python for Data Analysis by Wes McKinney
+    - Kaggle: Python Course"
+"Student scored 50% in the Data Science and Machine Learning quiz. Provide a study plan for the Intermediate level, focusing on key concepts and resources.","Title: Intermediate Level Study Plan: Data Science and Machine Learning
+Goal: Strengthen data manipulation and analysis skills.
+Week 1-2:
+    - Data wrangling with Pandas and NumPy
+    - Handling missing values, data cleaning, and transformations
+Resources:
+    - Kaggle: Pandas Course
+    - YouTube: Corey Schafer - Data Analysis with Pandas
+
+Week 3-4:
+    - Exploratory Data Analysis (EDA) and Visualization
+    - Using Seaborn and Matplotlib for EDA
+    - Statistical analysis and correlation studies
+Resources:
+    - Udacity: Data Visualization in Python
+    - Towards Data Science: EDA Tutorial"
